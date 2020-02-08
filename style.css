@@ -1,0 +1,12 @@
+body{
+  color:yellow;
+  background:rgb(187,5,0);
+}
+hr{
+  height: 2px;
+  border:none;
+  background-color:blue
+}
+ul{
+  list-stule:square;/*circle*/
+}
